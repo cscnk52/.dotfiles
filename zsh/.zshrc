@@ -44,3 +44,7 @@ setopt HIST_IGNORE_SPACE
 # gpg sign config start
 export GPG_TTY=$(tty)
 # gpg sign config end
+
+# alias start
+alias lg='lazygit'
+# alias end
