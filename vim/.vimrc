@@ -14,4 +14,5 @@ set showcmd
 
 set wildmenu
 
+set termguicolors
 colorscheme nord
