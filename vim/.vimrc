@@ -1,5 +1,6 @@
 call plug#begin('~/.vim/plugged')
 Plug 'wakatime/vim-wakatime'
+Plug 'arcticicestudio/nord-vim'
 call plug#end()
 
 syntax on
@@ -12,3 +13,5 @@ set wrap
 set showcmd
 
 set wildmenu
+
+colorscheme nord
