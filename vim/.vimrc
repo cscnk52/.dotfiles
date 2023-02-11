@@ -16,3 +16,7 @@ set wildmenu
 
 set termguicolors
 colorscheme nord
+
+set smartindent
+set tabstop=4
+set shiftwidth=4
