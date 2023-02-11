@@ -49,4 +49,6 @@ if [ -d /etc/X11/xinit/xinitrc.d ] ; then
 fi
 
 export QT_QPA_PLATFORMTHEME=qt5ct
+feh --bg-fill ~/Downloads/3420d115.jpg
+picom -b
 exec dwm
